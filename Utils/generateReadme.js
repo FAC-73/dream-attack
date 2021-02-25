@@ -7,6 +7,7 @@ function generateReadme(answers) {
 ## 📖 Description
 ${answers.description}
 <br />
+
 ## Table of Contents
 - [Description](#description)
 - [Installation](#installation)
@@ -16,35 +17,46 @@ ${answers.description}
 - [Tests](#tests)
 - [Questions](#questions)
 <br />
+
 ## ⚒️ Installation
 ${answers.installation}
 <br />
+
 ## 🖥️ Usage
 ${answers.usage}
 <br />
+
 ## 🏷️ License
 ![badge](https://img.shields.io/badge/license-${answers.license}-brightgreen)
 <br />
+
 This application is covered by the ${answers.license} license. 
 <br />
+
 ## 🙏 Contributing
 ${answers.contributing}
 <br />
+
 ## 🧪 Tests
 ${answers.tests}
 <br />
+
 ## 💭 Questions
 ${answers.questions}
 <br />
+
 ## :octocat: GitHub Username:
 [${answers.username}](https://github.com/${answers.username})
 <br />
+
 ## ✉️ Email me:
 [${answers.email}](mailto:${answers.email})
 <br />
+
 ## 📁 GitHub project repo:
 [${answers.projectRepoLink}](${answers.projectRepoLink})
 <br />
+
 ## 🔗 Deployed application:
 [${answers.projectWebPageLink}](${answers.projectWebPageLink})
 <br />
