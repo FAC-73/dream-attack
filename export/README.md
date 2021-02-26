@@ -1,9 +1,8 @@
 
-<h1 align="left">d</h1>
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+<h1 align="left">Good README Generator</h1>
   
 ## 📖 Description
-d
+Quickly and easily create a README file by using a command-line application to generate one. 
 <br />
 
 ## Table of Contents
@@ -17,43 +16,43 @@ d
 <br />
 
 ## ⚒️ Installation
-d
+Run the following command at the root of your directory and answer the prompted questions in terminal/bash. - node index
 <br />
 
 ## 🖥️ Usage
-d
+Run the following command at the root of your directory and answer the prompted questions in terminal/bash. - node index
 <br />
 
 ## 🏷️ License
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 <br />
-This application is covered by the GNU GPL v3 license. 
+This application is covered by the MIT license. 
 <br />
 
 ## 🙏 Contributing
-d
+FAC-73
 <br />
 
 ## 🧪 Tests
-d
+None
 <br />
 
 ## 💭 Questions
-d
+Contact me via Github or Email
 <br />
 
 ## :octocat: GitHub Username:
-[d](https://github.com/d)
+[FAC-73](https://github.com/FAC-73)
 <br />
 
 ## ✉️ Email me:
-[d](mailto:d)
+[kaydavis21@googlemail.com](mailto:kaydavis21@googlemail.com)
 <br />
 
 ## 📁 GitHub project repo:
-[d](d)
+[https://github.com/FAC-73/dream-attack](https://github.com/FAC-73/dream-attack)
 <br />
 
 ## 🔗 Deployed application:
-[d](d)
+[https://github.com/FAC-73/dream-attack](https://github.com/FAC-73/dream-attack)
 <br />
