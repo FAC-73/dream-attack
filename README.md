@@ -1,7 +1,11 @@
 # Professional README Generator
 
+![Animated GIF of password generator](https://github.com/FAC-73/dream-attack/blob/master/Assets/ReadmeGenerator.gif?raw=true)
+
 Quickly and easily create a README file by using a command-line application to generate one. 
-This allows the project creator to devote more time to working on the project.
+This allows the project creator to devote more time to working on the project. 
+
+Watch the video of the generator [here ](https://github.com/FAC-73/dream-attack/blob/master/Assets/README-generator-video.mov)
 <br />
 
 ## Table of Contents
@@ -15,7 +19,7 @@ This allows the project creator to devote more time to working on the project.
 
 ## Description
 
-A node.js application that prompts a user for input using [inquirer.js](https://www.npmjs.com/package/inquirer)to populate a README.md file for a Github repository. The README.md file is generated and written to a directory called export and can be found[here: ](https://github.com/FAC-73/dream-attack/blob/master/export/README.md)
+A node.js application that prompts a user for input using [inquirer.js ](https://www.npmjs.com/package/inquirer)to populate a README file for a Github repository. The README file is generated and written to a directory called export and can be found [here ](https://github.com/FAC-73/dream-attack/blob/master/export/README.md)
 <br />
 
 ## User Story
@@ -67,7 +71,7 @@ node index.js
 <br />
 
 ## Licence
-![badge](https://img.shields.io/badge/license-MIT-brightgreen)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 <br />
 
 ## Contributing
