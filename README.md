@@ -15,7 +15,6 @@ Watch the video of the generator [here ](https://github.com/FAC-73/dream-attack/
 - [License](#license)
 - [Contributing](#contributing)
 - [Questions](#questions)
-<br />
 
 ## Description
 
@@ -29,7 +28,6 @@ AS A developer
 I WANT a README generator
 SO THAT I can quickly create a professional README for a new project
 ```
-<br />
 
 ## Acceptance Criteria
 
@@ -50,7 +48,6 @@ THEN this is added to the section of the README entitled Questions, with instruc
 WHEN I click on the links in the Table of Contents
 THEN I am taken to the corresponding section of the README
 ```
-<br />
 
 ## Installation
 
@@ -60,7 +57,6 @@ npm init
 ```md
 npm install inquirer
 ```
-<br />
 
 ## Usage
 Run the following command at the root of your directory and answer the prompted questions in terminal/bash.
@@ -68,7 +64,6 @@ Run the following command at the root of your directory and answer the prompted 
 ```md
 node index.js
 ```
-<br />
 
 ## Licence
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -83,7 +78,6 @@ node index.js
 - [Node.js](https://nodejs.org/en/)
 - [Inquirer](https://www.npmjs.com/package/inquirer)
 - [JSON](https://www.json.org/json-en.html)
-<br />
 
 ## Questions?
 
