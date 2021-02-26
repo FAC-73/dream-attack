@@ -1,8 +1,8 @@
 
-<h1 align="left">Good README Generator</h1>
+<h1 align="left">test this out</h1>
   
 ## 📖 Description
-Quickly and easily create a README file by using a command-line application to generate one. 
+trying this out
 <br />
 
 ## Table of Contents
@@ -16,11 +16,11 @@ Quickly and easily create a README file by using a command-line application to g
 <br />
 
 ## ⚒️ Installation
-Run the following command at the root of your directory and answer the prompted questions in terminal/bash. - node index
+none
 <br />
 
 ## 🖥️ Usage
-Run the following command at the root of your directory and answer the prompted questions in terminal/bash. - node index
+not sure
 <br />
 
 ## 🏷️ License
@@ -30,15 +30,15 @@ This application is covered by the MIT license.
 <br />
 
 ## 🙏 Contributing
-FAC-73
+me
 <br />
 
 ## 🧪 Tests
-None
+nope
 <br />
 
 ## 💭 Questions
-Contact me via Github or Email
+call me :)
 <br />
 
 ## :octocat: GitHub Username:
@@ -46,13 +46,13 @@ Contact me via Github or Email
 <br />
 
 ## ✉️ Email me:
-[kaydavis21@googlemail.com](mailto:kaydavis21@googlemail.com)
+[daviskay@mail.com](mailto:daviskay@mail.com)
 <br />
 
 ## 📁 GitHub project repo:
-[https://github.com/FAC-73/dream-attack](https://github.com/FAC-73/dream-attack)
+[na](na)
 <br />
 
 ## 🔗 Deployed application:
-[https://github.com/FAC-73/dream-attack](https://github.com/FAC-73/dream-attack)
+[na](na)
 <br />
