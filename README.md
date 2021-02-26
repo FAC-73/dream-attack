@@ -3,6 +3,19 @@
 Quickly and easily create a README file by using a command-line application to generate one. 
 This allows the project creator to devote more time to working on the project.
 <br />
+
+## Table of Contents
+- [Description](#description)
+- [Installation](#installation)
+- [Usage](#usage)
+- [License](#license)
+- [Contributing](#contributing)
+- [Questions](#questions)
+<br />
+
+## Description
+
+A node.js application that prompts a user for input using [inquirer.js](https://www.npmjs.com/package/inquirer)to populate a README.md file for a Github repository. The README.md file is generated and written to a directory called export and can be found[here: ](https://github.com/FAC-73/dream-attack/blob/master/export/README.md)
 <br />
 
 ## User Story
@@ -35,23 +48,6 @@ THEN I am taken to the corresponding section of the README
 ```
 <br />
 
-## Table of Contents
-- [Description](#description)
-- [Installation](#installation)
-- [Usage](#usage)
-- [License](#license)
-- [Contributing](#contributing)
-- [Questions](#questions)
-<br />
-<br />
-
-
-## Description
-
-A node.js application that prompts a user for input from inquirer to populate a README.md file for a Github repository. The README.md file is generated and written to the export directory and can be found [here: ](https://github.com/FAC-73/dream-attack/blob/master/export/README.md)
-<br />
-<br />
-
 ## Installation
 
 ```md
@@ -73,13 +69,17 @@ node index.js
 ## Licence
 ![badge](https://img.shields.io/badge/license-MIT-brightgreen)
 <br />
-<br />
 
 ## Contributing
 [Kay Davis](https://github.com/FAC-73)
 <br />
-<br />
 
+## Built with
+- [Javascript](https://www.w3schools.com/jsref/default.asp)
+- [Node.js](https://nodejs.org/en/)
+- [Inquirer](https://www.npmjs.com/package/inquirer)
+- [JSON](https://www.json.org/json-en.html)
+<br />
 
 ## Questions?
 

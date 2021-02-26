@@ -2,12 +2,13 @@
 const fs = require("fs");
 const util = require("util");
 const inquirer = require("inquirer");
-const generateReadme = require("./utils/generateReadme")
+const generateMarkdown = require("./utils/generateMarkdown")
 const writeFileAsync = util.promisify(fs.writeFile);
 
 //Prompt with questions to append to README.md
-function promptUser(){
+function promptUser() {
     return inquirer.prompt([
+        // prompt object array
         {
             type: "input",
             name: "title",
@@ -33,17 +34,11 @@ function promptUser(){
             name: "license",
             message: "Choose a license for this project: ",
             choices: [
-                "Apache",
-                "Academic",
-                "GNU",
-                "ISC",
+                "Apache 2.0 License",
+                "GNU GPL v3",
                 "MIT",
-                "Mozilla",
-                "Open",
-                "The Unlicense",
-                "Eclipse",
-                "Boost",
-                "Creative Commons"
+                "Mozilla Public License 2.0",
+                "None"
             ]
         },
         {
@@ -82,21 +77,21 @@ function promptUser(){
             message: "Please include a link to your project deployed application: "
         },
     ]);
-} 
+}
 
 // Async function utilizing util.promisify
-  async function init() {
+async function init() {
     try {
-        // Prompt user with questions and append the answers to readme.js
-        const answers = await promptUser();
-        const exportContent = generateReadme(answers);
+        // Prompt user with questions and append the responses to readme.js
+        const responses = await promptUser();
+        const exportContent = generateMarkdown(responses);
         // Write README.md to export directory if successful
         await writeFileAsync('./export/README.md', exportContent);
-        console.log('Successfully added to README.md ✔️  ');
+        console.log('Successfully added to README.md');
         // otherwise display an error
-    }   catch(err) {
+    } catch (err) {
         console.log(err);
     }
-  }
-  
-  init();  
+}
+
+init();  
