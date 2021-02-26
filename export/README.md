@@ -1,8 +1,8 @@
 
-<h1 align="left">test this out</h1>
+<h1 align="left">Professional README Generator</h1>
   
 ## 📖 Description
-trying this out
+A Node.js app that runs from the command line. Enabling you to create a README in a fast way through prompts
 <br />
 
 ## Table of Contents
@@ -16,11 +16,11 @@ trying this out
 <br />
 
 ## ⚒️ Installation
-none
+npm init, followed by npm install inquirer
 <br />
 
 ## 🖥️ Usage
-not sure
+Run the command node index.js at the root of the directory and answer the prompted questions in terminal/bash
 <br />
 
 ## 🏷️ License
@@ -30,15 +30,15 @@ This application is covered by the MIT license.
 <br />
 
 ## 🙏 Contributing
-me
+None
 <br />
 
 ## 🧪 Tests
-nope
+None
 <br />
 
 ## 💭 Questions
-call me :)
+Email or contact on Github
 <br />
 
 ## :octocat: GitHub Username:
@@ -46,13 +46,13 @@ call me :)
 <br />
 
 ## ✉️ Email me:
-[daviskay@mail.com](mailto:daviskay@mail.com)
+[kaydavis21@googlemail.com](mailto:kaydavis21@googlemail.com)
 <br />
 
 ## 📁 GitHub project repo:
-[na](na)
+[https://github.com/FAC-73/dream-attack](https://github.com/FAC-73/dream-attack)
 <br />
 
 ## 🔗 Deployed application:
-[na](na)
+[https://github.com/FAC-73/dream-attack](https://github.com/FAC-73/dream-attack)
 <br />
