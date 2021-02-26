@@ -77,6 +77,6 @@ ${responses.questions}
 [${responses.projectWebPageLink}](${responses.projectWebPageLink})
 <br />
 `;
-  }
+}
 
-  module.exports = generateMarkdown;
+module.exports = generateMarkdown;
